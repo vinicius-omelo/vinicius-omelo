@@ -1,4 +1,4 @@
-## Hello my friend!!
+## Hello my friends!!
 
 <div>
    <a href="https://github.com/vinicius-omelo">
