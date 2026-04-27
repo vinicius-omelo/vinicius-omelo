@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Oliveira+Melo;I'm+22+years+old;I+am+from+Manaus,+AM;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Oliveira+Melo;I'm+24+years+old;I+am+from+Manaus,+AM;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinicius-omelo&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" alt="Vinicius Oliveira Melo github stats" /> 
@@ -36,12 +36,6 @@
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vinicius-omelo}/count.svg" /></p> 
-<br></div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
 
