@@ -4,7 +4,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinicius-omelo&bg_color=000000&color=9400D3&line=9400D3&point=4B0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">  
 <a href="https://www.instagram.com/Vinicius_ue/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=viniciuss.uee@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=viniciuss.uee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/vinicius-oliveira-melo-b2477224a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div> 
 
